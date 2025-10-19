@@ -14,6 +14,8 @@
   },
   "license": "ISC",
   "devDependencies": {
+    "@repo/typescript-config": "workspace:*",
+    "@repo/eslint-config": "workspace:*",
     "typescript": "^5.9.3"
   }
 }
